@@ -1,15 +1,15 @@
 <h1 align="center">Hey there 👋, I'm Alex</h1>
 <h3 align="center" >A 4th year software engineering and statistics student at UofT 👨🏻‍💻</h3>
 
-<p align='center'> <img width="90%" src="https://github.com/Alex-Zeng-UofT/Alex-Zeng-UofT/assets/114100209/0b13172a-161c-459d-836c-5caf340ad151"> </p>
+<p align='center'> <img width="90%" src="https://github.com/alexxzeng/alexxzeng/assets/114100209/0b13172a-161c-459d-836c-5caf340ad151"> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-zeng-uoft&label=Profile%20views&color=0e75b6&style=flat" alt="alex-zeng-uoft" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexxzeng&label=Profile%20views&color=0e75b6&style=flat" alt="alexxzeng" /> </p>
 
 - 🔭 I’m currently working on **Graditor, a grade predicting machine learning web app**
 
 - 🌱 I’m currently learning **C# with Unity to build a game**
 
-- 👨‍💻 Definitely go check out my new [Portfolio](https://alex-zeng-uoft.github.io/)
+- 👨‍💻 Definitely go check out my new [Portfolio](https://alexxzeng.github.io/)
 
 - 📫 How to reach me **a.zeng@mail.utoronto.ca**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alex-zeng-uoft/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-zeng-uoft/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexxzeng/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexxzeng/" height="30" width="40" /></a>
 <a href="https://instagram.com/alex.zengg_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alex.zeng__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alex_zeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alex_zeng" height="30" width="40" /></a>
 </p>
@@ -31,9 +31,9 @@
 
 &nbsp;
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-zeng-uoft&show_icons=true&locale=en&layout=compact" alt="alex-zeng-uoft" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexxzeng&show_icons=true&locale=en&layout=compact" alt="alexxzeng" />
   &nbsp; &nbsp;
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alex-zeng-uoft&" alt="alex-zeng-uoft" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alexxzeng&" alt="alexxzeng" />
 </p>
 
 
